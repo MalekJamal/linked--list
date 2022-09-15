@@ -1,0 +1,16 @@
+{
+  "name": "__test__",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ll.test.js",
+  "scripts": {
+    "test": "jest --coverage --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^29.0.2",
+    "jest": "^29.0.3"
+  }
+}
